@@ -2,6 +2,7 @@
 #        python pet project        #
 #      advanced text analysis      #
 
+#next todo: add a list of the most frequently used letters in the text 
 
 import tkinter as tk
 from tkinter import scrolledtext
