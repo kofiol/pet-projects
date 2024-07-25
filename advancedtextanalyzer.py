@@ -1,3 +1,10 @@
+#      made by psyhik as a pet project for improving skills
+#      this project is one of the funniest things ive ever written and continuing to update. this program is made to count characters, symbols, analyze the text and other useful things for seo optimization
+#      i started this pet project 14 june 2024
+#      last update: 25 july 2024
+
+
+
 import tkinter as tk
 from tkinter import scrolledtext
 import re
